@@ -1,6 +1,6 @@
 # ASP.NET Core implement background refresh MemoryCache data
 
-![memorycache](memorycache.png)
+![memorycache](/index.png)
 
 ## How To Run
 
